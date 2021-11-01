@@ -1,0 +1,12 @@
+
+.d0 {
+  text-align: center;
+  border: 3px solid black;
+  padding: 50px;
+  margin: 1%;
+}
+button{
+  margin: 1%;
+  padding: 10px;
+  border: 3px solid black;
+}
